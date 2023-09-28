@@ -13,7 +13,7 @@ The objectives of this project are:
 
 ### Data Source
 
-The dataset used for this analysis the "top_1000_popular_movies_tmdb.xlsx", containing the detailed information about each movie produced.
+The dataset used for this analysis is the "top_1000_popular_movies_tmdb.xlsx", containing the detailed information about each movie produced.
 
 ### Tool(s)
 - Power BI - ETL operation and Data Visualization
