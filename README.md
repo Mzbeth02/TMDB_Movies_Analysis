@@ -1,5 +1,5 @@
 ## TMDB_Movies_Analysis
-A few insights gotten from the top 10000 popular movies dataset on Kaggle
+A few insights gotten from the top 10,000 popular movies dataset on Kaggle
 
 ### Project Overview
 
@@ -19,6 +19,6 @@ The dataset used for this analysis is the "top_1000_popular_movies_tmdb.xlsx", c
 - Power BI - ETL operation and Data Visualization
 
 :--------------------------------------------:|:------------------------------------------:
-![](https://rb.gy/ic6b2) | ![](https://rb.gy/kybic)
+![](https://rb.gy/ic6b2)                      |  ![](https://rb.gy/kybic)
 
 
