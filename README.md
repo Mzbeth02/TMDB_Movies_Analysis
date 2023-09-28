@@ -3,7 +3,7 @@ A few insights gotten from the top 10000 popular movies dataset on Kaggle
 
 ### Project Overview
 
-The objective of this project are:
+The objectives of this project are:
 - to provide insights on the top 5 movies by the revenue generated;
 - to display top 5 genres by popularity;
 - to compare the revenue and budget to the count of movies released in the months of the year;
