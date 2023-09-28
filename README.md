@@ -18,7 +18,7 @@ The dataset used for this analysis the "top_1000_popular_movies_tmdb.xlsx", cont
 ### Tool(s)
 - Power BI - ETL operation and Data Visualization
 
-:--------------------------------------------:|:----------------------------------------:
-![](https://rb.gy/ic6b2)) | ![](https://rb.gy/kybic)
+:--------------------------------------------:|:------------------------------------------:
+![](https://rb.gy/ic6b2) | ![](https://rb.gy/kybic)
 
 
