@@ -18,6 +18,13 @@ The dataset used for this analysis is the "top_1000_popular_movies_tmdb.xlsx", c
 ### Tool(s)
 - Power BI - ETL operation and Data Visualization
 
+### Data Cleaning and Transformation
+
+The following tasks were performed in the data preparation phase:
+data loading;
+data formatting;
+handling errors in column(s)
+
 :--------------------------------------------:|:------------------------------------------:
 ![](https://rb.gy/ic6b2)                      |  ![](https://rb.gy/kybic)
 
