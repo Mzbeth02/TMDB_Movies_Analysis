@@ -25,6 +25,19 @@ data loading;
 data formatting;
 handling errors in column(s)
 
+### Exploratory Data Analysis
+
+EDA invoved exploring the data to answer key questions such as:
+
+1. Which production year generated the highest revenue?
+2. What month of the year has the highest production?
+3. What is the total revenue generated?
+4. What are the top 5 genres most watch?
+
+### Results
+
+The analysis revealed that across all the production years, the month of June is the month with the highest movie production and revenue.
+
 :--------------------------------------------:|:------------------------------------------:
 ![](https://rb.gy/ic6b2)                      |  ![](https://rb.gy/kybic)
 
