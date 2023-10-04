@@ -32,11 +32,15 @@ EDA invoved exploring the data to answer key questions such as:
 1. Which production year generated the highest revenue?
 2. What month of the year has the highest production?
 3. What is the total revenue generated?
-4. What are the top 5 genres most watch?
+4. What are the top 5 genres most watched?
 
 ### Results
 
-The analysis revealed that across all the production years, the month of June is the month with the highest movie production and revenue.
+The followings were observed from the analysis:
+
+1. The analysis revealed that across all the production years, the month of June is the month with the highest movie production and revenue.
+2. The number of movies released or produced is not directly proportional to the income generated.
+3. The most watched movie genre is [Action, Crime, Thriller].
 
 :--------------------------------------------:|:------------------------------------------:
 ![](https://rb.gy/ic6b2)                      |  ![](https://rb.gy/kybic)
