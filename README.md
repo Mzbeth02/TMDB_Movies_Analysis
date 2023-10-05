@@ -41,8 +41,9 @@ The followings were observed from the analysis:
 1. The analysis revealed that across all the production years, the month of June is the month with the highest movie production and revenue.
 2. The number of movies released or produced is not directly proportional to the income generated.
 3. The most watched movie genre is [Action, Crime, Thriller].
+4. The genre with the highest revenue is [Action, Adventure, Fantasy, Science].
+5. The movie that generated the highest revenue is Avatar.
 
-:--------------------------------------------:|:------------------------------------------:
-![](https://rb.gy/ic6b2)                      |  ![](https://rb.gy/kybic)
+![](https://rb.gy/ic6b2)         |     ![](https://rb.gy/kybic)
 
 
